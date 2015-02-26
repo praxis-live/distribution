@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Name=Praxis LIVE
+Comment=Praxis LIVE
+Exec=/usr/bin/praxis_live
+Icon=praxislive.png
+Categories=Development;Java;
+Terminal=false
+Type=Application
+

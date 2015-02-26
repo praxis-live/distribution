@@ -1,0 +1,5 @@
+praxis-live: arch-independent-package-contains-binary-or-object
+praxis-live: missing-dependency-on-libc
+praxis-live: debian-changelog-file-missing
+praxis-live: extended-description-is-empty
+

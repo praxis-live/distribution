@@ -1,0 +1,9 @@
+Package: praxis-live
+Version: VERSION-1
+Architecture: all
+Maintainer: Neil C Smith <neilcsmith.net@googlemail.com>
+Installed-Size: 56000
+Depends: openjdk-7-jre | java7-jre
+Priority: optional
+Homepage: http://www.praxislive.org
+Description: Open-source, graphical environment for rapid development of intermedia performance tools, projections and interactive spaces.
