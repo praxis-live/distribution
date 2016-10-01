@@ -1,10 +1,10 @@
 Package: praxis-live
-Version: 2:VERSION-1
+Version: 3:VERSION-1
 Architecture: all
 Maintainer: Neil C Smith <neilcsmith.net@googlemail.com>
-Installed-Size: 110000
-Depends: openjdk-7-jre | java7-jre
-Recommends: gstreamer0.10-plugins-base
+Installed-Size: 140000
+Depends: openjdk-8-jre | java8-runtime
+Recommends: gstreamer1.0-plugins-base, gstreamer1.0-plugins-good
 Priority: optional
 Homepage: http://www.praxislive.org
-Description: Hybrid visual IDE for working with video, audio, physical computing, etc.
+Description: Hybrid visual IDE for (live) creative coding
