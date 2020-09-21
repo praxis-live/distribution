@@ -7,4 +7,4 @@ Icon=praxislive.png
 Categories=Development;Java;
 Terminal=false
 Type=Application
-
+StartupWMClass=Praxis LIVE
